@@ -1,0 +1,8 @@
+* 895d1ca feature: add feature.txt
+* 180fc30 main: add main.txt
+*   7ce2433 Merge branch 'feature-merge' into main
+|\  
+| * eace763 feature: update line 2
+* | 60c5f96 main: update line 2
+|/  
+* bc3c7ec initial commit

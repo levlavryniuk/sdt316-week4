@@ -1,0 +1,14 @@
+*   b30b19a Merge pull request #1 from levlavryniuk/tidy
+|\  
+| * 1fcb5cf Add usage.md with a Usage section
+| * ffcfe9a Add config.ini with initial project settings
+| * 2ccd404 Add notes.txt with project notes
+|/  
+* 895d1ca feature: add feature.txt
+* 180fc30 main: add main.txt
+*   7ce2433 Merge branch 'feature-merge' into main
+|\  
+| * eace763 feature: update line 2
+* | 60c5f96 main: update line 2
+|/  
+* bc3c7ec initial commit

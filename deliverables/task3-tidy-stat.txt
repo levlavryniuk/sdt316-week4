@@ -1,0 +1,26 @@
+commit 1fcb5cfeb8b13e85e883b3df907f80b980526106
+Author: Lev Lavryniuk <levlavryniuk@gmail.com>
+Date:   Tue Sep 22 12:41:01 2026 +0300
+
+    Add usage.md with a Usage section
+
+ usage.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit ffcfe9a9927522559bb647b3c462b2c961c4244c
+Author: Lev Lavryniuk <levlavryniuk@gmail.com>
+Date:   Tue Sep 22 12:41:01 2026 +0300
+
+    Add config.ini with initial project settings
+
+ config.ini | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 2ccd404c2af970e5bb4eda56c65bc38d9c2bda2b
+Author: Lev Lavryniuk <levlavryniuk@gmail.com>
+Date:   Tue Sep 22 12:41:01 2026 +0300
+
+    Add notes.txt with project notes
+
+ notes.txt | 2 ++
+ 1 file changed, 2 insertions(+)
